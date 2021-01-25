@@ -1,0 +1,8 @@
+.navbar {
+    height: 150px;
+  }
+  
+  .navbar a {
+    padding-left: 130px;
+    font-size: 70px;
+  }
