@@ -1,0 +1,15 @@
+.box {
+  border: 1px #108ACD solid;
+  margin-top: 10px;
+  background: #108ACD;
+  color: white;
+  text-align: center;
+  min-height: auto;
+  border-radius: 5px;
+}
+
+.box a {
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+}
